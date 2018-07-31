@@ -2,7 +2,6 @@
 Codes for the following paper:
   Jun-Yong Jeong and Chi-Hyuck Jun (2018), Variable Selection and Task Grouping for Multi-task learning, KDD 2018 (https://dl.acm.org/citation.cfm?id=3219819.3219992)
 
-
 promotion video: https://www.youtube.com/watch?v=bJHphY_b2Sg
   
   
