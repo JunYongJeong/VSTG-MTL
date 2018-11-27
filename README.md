@@ -12,7 +12,7 @@ VSTG_MTL requires the following toolbox:
 
 ## Acknowledgements
 Some codes are from MALSAR (Zhouu et al., 2011, https://github.com/jiayuzhou/MALSAR)
-and ksupport-normm toolbox (Blaschko, 2013, https://github.com/blaschko/ksupport) 
+and k-support-norm toolbox (Blaschko, 2013, https://github.com/blaschko/ksupport) 
 
 ## USAGE
 Please run demo.m 
