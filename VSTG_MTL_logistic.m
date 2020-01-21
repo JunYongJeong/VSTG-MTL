@@ -76,7 +76,7 @@ history.fun = fun;
         
         val = hyp(1) * norm(U,1) + hyp(2)*sum(max(abs(U),[],2));
         for r=1:size(U,1)
-            val = val + hyp(3) * norm_overlap(U(r,:)',opts.k)^2;
+            val = val + hyp(3) * norm_overlap(V(r,:)',opts.k)^2;
         end
         
         for m2=1:T
